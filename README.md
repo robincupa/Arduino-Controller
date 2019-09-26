@@ -5,6 +5,7 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
 Stepper / servo      
 360 degree photo - https://codyhouse.co/gem/360-degrees-product-viewer#
                  - https://www.youtube.com/watch?v=-9MXhM_HmxE
+                 - https://opencv.org/opencv-4-0/
 
 
 
