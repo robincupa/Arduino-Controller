@@ -1,5 +1,4 @@
-# Arduino-Controller
-Arduino controller for automated 360° product photography
+# Arduino-Controller with automated turntable for 360° product photography
 
 Controller - https://www.instructables.com/id/Arduino-Controller-for-Automated-360-Product-Photo/
 Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-Steppermotor/
