@@ -13,4 +13,9 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
 Stepper / servo 
 Infrared LED 950nm
 
+Postup práce:
+           - Zapojení servo motoru
+           - Zapojení IR LEDky
+           - Psaní kódu pro ovládání spouště kamery pomocí infra ledky a tlačítka
+
 
