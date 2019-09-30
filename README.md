@@ -7,6 +7,7 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
                  - https://www.youtube.com/watch?v=-9MXhM_HmxE
                  - https://opencv.org/opencv-4-0/
 
-
 Stepper / servo 
 Infrared LED 950nm
+
+
