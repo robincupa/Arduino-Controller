@@ -10,6 +10,10 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
                  - https://www.youtube.com/watch?v=-9MXhM_HmxE
                  - https://opencv.org/opencv-4-0/
 
+IR: 
+    - Testování na TV
+    - https://learn.sparkfun.com/tutorials/ir-communication/all
+
 Harmonogram: 
            - Zapojení obvodu pro test fungování IR LED ve spojení s fotoaparátem
            - Zapojení krokového motoru s driverem
