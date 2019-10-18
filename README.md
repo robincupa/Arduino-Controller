@@ -15,7 +15,7 @@ Obvodu:
            - Obvod by měl obsahovat IR LED (940nm) pro vysílání kódů, tlačítko (pro zapnutí) a LED pro mou orientaci (svítí ->                        připraveno k zapnutí, nesvítí -> cyklus je u konce)
            - Pro připojení jsem potřeboval 2 rezistory 220ohm (LED, IR LED), rezistor 10k ohm (tlačítko) a propojovací kabely (Male-                  Male, Male-Female)
            - Pro otáčení produktem na podložce použiji Stepper motor 28BYJ-48 s driverem pro krokový motor
-                      - Napájí se 5V, tudíž bude napájen přímo z arduina (breadboard)
+                      - Napájen bude 5v z arduina (breadboard)
                       - https://navody.arduino-shop.cz/navody-k-produktum/krokovy-motor-a-driver.html
            - schéma:
 
