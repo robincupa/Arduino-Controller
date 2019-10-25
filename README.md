@@ -55,7 +55,7 @@ Harmonogram:
                                              - Opakování od začátku
                       
            - Listopad - Konstrukce podložky pro produkt
-                      - Tvorba 360° product wiever ze získaných fotek (Javascript)
+                      - Tvorba 360° product viewer ze získaných fotek (Javascript)
                       - Tvorba dokumentace
            
            - Prosinec - Dokončení dokumentace
