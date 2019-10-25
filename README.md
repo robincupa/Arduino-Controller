@@ -59,4 +59,4 @@ Harmonogram:
                       - Tvorba dokumentace
            
            - Prosinec - Dokončení dokumentace
-                      - Případné doladění projekt
+                      - Případné doladění projektu
