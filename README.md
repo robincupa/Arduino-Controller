@@ -59,12 +59,4 @@ Harmonogram:
                       - Tvorba dokumentace
            
            - Prosinec - Dokončení dokumentace
-                      - Případné doladění projektu
-                      
-           
-          
-* BONUS: Pokud budu mít nějaký čas navíc, pokusím se fotky převést do jednoho Panorama obrázku
-
-
-
-
+                      - Případné doladění projekt
