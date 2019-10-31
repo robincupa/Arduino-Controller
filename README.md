@@ -36,9 +36,11 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
                  - https://opencv.org/opencv-4-0/
 
 Harmonogram: 
+
            - Září     - volba projektu
                       - Tento projekt jsem si zvolil, protože tím vytvořím něco užitečného pro tvorbu 360° fotek produktů na                         eshop, a zároveň se naučím ovládat zařízení pomocí IR, ovládání krokových motorů, něco nového v                               javascriptu (skládání z fotek 360° wiever)
                       - Nákup potřebných součástek
+                      
            - Říjen    - Analýza projektu
                       - servo / krokový motor
                       - Knihovna
@@ -52,9 +54,11 @@ Harmonogram:
                                              - Delay
                                              - Spuštění krokového motorku, který otočí produktem
                                              - Delay
-                                             - Opakování od začátku                      
+                                             - Opakování od začátku   
+                                             
            - Listopad - Konstrukce podložky pro produkt
                       - Tvorba 360° product viewer ze získaných fotek (Javascript)
                       - Tvorba dokumentace           
+                      
            - Prosinec - Dokončení dokumentace
                       - Případné doladění projektu
