@@ -28,6 +28,10 @@ Mikrokontroler:
            - Arduino UNO 
            - 
 
+Krokový motor:
+
+           - https://www.instructables.com/id/BYJ48-Stepper-Motor/
+           - Krokový motor 28-BYJ48 s driverem ULN2003
 
 Controller - https://www.instructables.com/id/Arduino-Controller-for-Automated-360-Product-Photo/ 
            - https://github.com/FluxGarage/Controller-for-Steppermotor-Turntable-and-IR-Camera-Shutter/blob/master/Basic_ControllerForTurntableAndIRCamerashutter.ino
