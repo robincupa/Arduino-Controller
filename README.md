@@ -12,8 +12,8 @@ Knihovny:
                          - https://diydrones.com/forum/topics/sony-a7-infrared-codes // IR kódy pro fotoaparát, který používám při                                    komunikaci
                          
 Obvod:
-           - Obvod by měl obsahovat IR LED (940nm) pro vysílání kódů, tlačítko (pro zapnutí) a LED pro mou orientaci (svítí ->                        připraveno k zapnutí, nesvítí -> cyklus je u konce)
-           - Pro připojení jsem potřeboval 2 rezistory 220ohm (LED, IR LED), rezistor 10k ohm (tlačítko) a propojovací kabely (Male -                  Male, Male - Female)
+           - Obvod by měl obsahovat IR LED (940nm) pro vysílání kódů, tlačítko (pro zapnutí) a LED pro mou orientaci (svítí                    -> připraveno k zapnutí, nesvítí -> cyklus je u konce)
+           - Pro připojení jsem potřeboval 2 rezistory 220ohm (LED, IR LED), rezistor 10k ohm (tlačítko) a propojovací kabely              (Male - Male, Male - Female)
            - Pro otáčení produktem na podložce použiji Stepper motor 28BYJ-48 s driverem pro krokový motor
                       - Napájen bude 5V z arduina (breadboard)
                       - https://navody.arduino-shop.cz/navody-k-produktum/krokovy-motor-a-driver.html
@@ -36,10 +36,10 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
                  - https://opencv.org/opencv-4-0/
 
 Harmonogram: 
-           - Září - volba projektu
-                  - Tento projekt jsem si zvolil, protože tím vytvořím něco užitečného pro tvorbu 360° fotek produktů na eshop, a                           zároveň se naučím ovládat zařízení pomocí IR, ovládání krokových motorů, něco nového v javascriptu (skládání z fotek                     360° wiever)
-                  - Nákup potřebných součástek
-           - Říjen - Analýza projektu
+           - Září     - volba projektu
+                      - Tento projekt jsem si zvolil, protože tím vytvořím něco užitečného pro tvorbu 360° fotek produktů na                         eshop, a zároveň se naučím ovládat zařízení pomocí IR, ovládání krokových motorů, něco nového v                               javascriptu (skládání z fotek 360° wiever)
+                      - Nákup potřebných součástek
+           - Říjen    - Analýza projektu
                       - servo / krokový motor
                       - Knihovna
                       - IR LED
@@ -52,11 +52,9 @@ Harmonogram:
                                              - Delay
                                              - Spuštění krokového motorku, který otočí produktem
                                              - Delay
-                                             - Opakování od začátku
-                      
+                                             - Opakování od začátku                      
            - Listopad - Konstrukce podložky pro produkt
                       - Tvorba 360° product viewer ze získaných fotek (Javascript)
-                      - Tvorba dokumentace
-           
+                      - Tvorba dokumentace           
            - Prosinec - Dokončení dokumentace
                       - Případné doladění projektu
