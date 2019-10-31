@@ -12,7 +12,7 @@ Knihovny:
                          - https://www.arduinolibraries.info/libraries/i-rremote
                          - https://diydrones.com/forum/topics/sony-a7-infrared-codes // IR kódy pro fotoaparát, který používám při                                    komunikaci
                          
-Obvod:
+Zapojení:
 
            - Obvod by měl obsahovat IR LED (940nm) pro vysílání kódů, tlačítko (pro zapnutí) a LED pro mou orientaci (svítí                    -> připraveno k zapnutí, nesvítí -> cyklus je u konce)
            - Pro připojení jsem potřeboval 2 rezistory 220ohm (LED, IR LED), rezistor 10k ohm (tlačítko) a propojovací kabely              (Male - Male, Male - Female)
