@@ -1,6 +1,7 @@
 # Arduino-Controller with automated turntable for 360° product photography
 
 Knihovny:
+
            - První pokus - multiCameraIrControl (Seitz)
                          - Pomocí této knihovny se mi nepodařilo komunikovat s kamerou přes IR LED
                          - https://github.com/dharmapurikar/Arduino/tree/master/libraries/multiCameraIrControl
@@ -12,6 +13,7 @@ Knihovny:
                          - https://diydrones.com/forum/topics/sony-a7-infrared-codes // IR kódy pro fotoaparát, který používám při                                    komunikaci
                          
 Obvod:
+
            - Obvod by měl obsahovat IR LED (940nm) pro vysílání kódů, tlačítko (pro zapnutí) a LED pro mou orientaci (svítí                    -> připraveno k zapnutí, nesvítí -> cyklus je u konce)
            - Pro připojení jsem potřeboval 2 rezistory 220ohm (LED, IR LED), rezistor 10k ohm (tlačítko) a propojovací kabely              (Male - Male, Male - Female)
            - Pro otáčení produktem na podložce použiji Stepper motor 28BYJ-48 s driverem pro krokový motor
@@ -22,6 +24,7 @@ Obvod:
 
 
 Mikrokontroler:
+
            - Arduino UNO 
            - 
 
