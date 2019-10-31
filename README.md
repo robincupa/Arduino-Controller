@@ -34,6 +34,8 @@ Controller - https://www.instructables.com/id/Arduino-Controller-for-Automated-3
            - 
 
 Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-Steppermotor/  
+                    - https://www.banggood.com/cs/200mm-Round-Dining-table-Turntable-Bearing-Lazy-Susan-Aluminum-Bearing-p-1247557.html?gmcCountry=CZ&currency=CZK&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=xibei&utm_campaign=xibei-ssc-cz-cs-all-newcustom-ncv75-1029&cur_warehouse=CN
+                    
 360 degree photo - https://codyhouse.co/gem/360-degrees-product-viewer#
                  - https://www.youtube.com/watch?v=-9MXhM_HmxE
                  - https://opencv.org/opencv-4-0/
