@@ -47,7 +47,7 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
 Harmonogram: 
 
            - Září     - volba projektu
-                      - Tento projekt jsem si zvolil, protože tím vytvořím něco užitečného pro tvorbu 360° fotek produktů na                         eshop, a zároveň se naučím ovládat zařízení pomocí IR, ovládání krokových motorů, něco nového v                               javascriptu (skládání z fotek 360° wiever)
+                      - Tento projekt jsem si zvolil, protože tím vytvořím něco užitečného pro tvorbu 360° fotek produktů na                         eshop, a zároveň se naučím ovládat zařízení pomocí IR, ovládání krokových motorů, něco nového v                               javascriptu (skládání z fotek 360° viewer)
                       - Nákup potřebných součástek
                       
            - Říjen    - Analýza projektu
