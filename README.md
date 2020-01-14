@@ -43,6 +43,7 @@ Automated turntable - https://www.instructables.com/id/Automated-Turntable-With-
 360 degree photo - https://codyhouse.co/gem/360-degrees-product-viewer#
                  - https://www.youtube.com/watch?v=-9MXhM_HmxE
                  - https://opencv.org/opencv-4-0/
+                 - https://www.jqueryscript.net/rotator/jQuery-Plugin-For-360-Degree-3D-Panoramic-View-3dEye-js.html
 
 Harmonogram: 
 
